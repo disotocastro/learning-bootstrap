@@ -1,0 +1,19 @@
+.navbar-logo{
+  width: 4rem;
+}
+.conf-hawaii{
+  font-size: 0.9rem;
+  margin-left: 0.2rem;
+}
+
+.text-platzi{
+  color: #97c93e !important;
+}
+
+.form-control{
+  background-color: #181a1b;
+  border: #181a1b;
+}
+.form-control:focus {
+  background-color: #181a1b;
+}
