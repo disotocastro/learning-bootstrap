@@ -9,6 +9,9 @@
 .text-platzi{
   color: #97c93e !important;
 }
+.text-platzi:hover{
+  opacity: 80%;
+}
 
 .form-control{
   background-color: #181a1b;

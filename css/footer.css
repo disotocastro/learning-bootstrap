@@ -4,3 +4,11 @@
 #footer a {
   color: #FFFF;
 }
+
+.container-text{
+  color: white;
+  cursor: pointer;
+}
+.container-text:hover{
+  opacity: 80%;
+}
